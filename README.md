@@ -5,7 +5,7 @@
 <html>
 <!-- the title will appear on the page-->
 <head>
-<title>Employee Interests Survey</title>
+<title>Emp Int Survey </title>
 </head>
 <body>
 <!-- as it is a survey form, we will need to submit the details, hence we use form -->
@@ -36,7 +36,7 @@ How do you like to read about your favorite topics?
 <!--Checkbox lets you select multiple options -->
 <input type="checkbox" name="Books">Books
 <input type="checkbox" name="Web">Online resources
-<input type="checkbox" name="Phone">Phone apps
+<input type="checkbox" name="Phone apps">Phone apps
 <input type="checkbox" name="Magazines">Magazines
 </p>
 What genre of movies do you like?
