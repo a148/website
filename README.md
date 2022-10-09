@@ -1,11 +1,11 @@
-# Survey form website
+form website
 
 <!DOCTYPE HTML>
 <!-- This is how HTML comments look like -->
 <html>
 <!-- the title will appear on the page-->
 <head>
-<title>Emp Int Survey </title>
+<title>Emp Interest Survey </title>
 </head>
 <body>
 <!-- as it is a survey form, we will need to submit the details, hence we use form -->
@@ -39,12 +39,12 @@ How do you like to read about your favorite topics?
 <input type="checkbox" name="Phone apps">Phone apps
 <input type="checkbox" name="Magazines">Magazines
 </p>
-What genre of movies do you like?
+What genre of movies do you like most?
 <!--Select box lets you choose one of the multiple dropdown options-->
 <select name="moviepref" ><option>
 <option value=1 selected = "true">comedy
 <option value=2 >romance
-<option value=3 >funny
+<option value=3 >Laugh
 <option value=4 >horror
 <option value=5 >biopic
 </select>
