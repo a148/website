@@ -1,4 +1,4 @@
-# website
+# Survey form website
 
 <!DOCTYPE HTML>
 <!-- This is how HTML comments look like -->
@@ -14,7 +14,7 @@
 <!-- If we remove this, every thing will move to the left of the page-->
 <div align="center">
 <!--Adds a heading to the form-->
-<h1>Employee Interests Survey form</h1>
+<h1>New Employee Interests Survey form</h1>
 Enter your name:
 <!-- Input type text for small texts, specify size -->
 <input type="text" name="UserName" size=35 maxlength=35 value="">
@@ -44,7 +44,7 @@ What genre of movies do you like?
 <select name="moviepref" ><option>
 <option value=1 selected = "true">comedy
 <option value=2 >romance
-<option value=3 >thriller
+<option value=3 >funny
 <option value=4 >horror
 <option value=5 >biopic
 </select>
