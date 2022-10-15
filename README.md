@@ -5,7 +5,7 @@ form website
 <html>
 <!-- the title will appear on the page-->
 <head>
-<title>Employee Interest Survey </title>
+<title>Employee Interest Survey form </title>
 </head>
 <body>
 <!-- as it is a survey form, we will need to submit the details, hence we use form -->
@@ -14,7 +14,7 @@ form website
 <!-- If we remove this, every thing will move to the left of the page-->
 <div align="center">
 <!--Adds a heading to the form-->
-<h2>Employee Interests Survey form</h2>
+<h1>Employee Interests Survey New form</h1>
 Enter your name:
 <!-- Input type text for small texts, specify size -->
 <input type="text" name="UserName" size=35 maxlength=35 value="">
@@ -42,11 +42,11 @@ How do you like to read about your favorite topics?
 What genre of movies do you like most?
 <!--Select box lets you choose one of the multiple dropdown options-->
 <select name="moviepref" ><option>
-<option value=1 selected = "true">comedywithme
+<option value=1 selected = "true">comedies
 <option value=2 >romance
-<option value=3 >Laugh
+<option value=3 >Laugh and smile
 <option value=4 >Horror
-<option value=5 >New biopic
+<option value=5 >New Pro biopic
 </select>
 </br></br>
 <!--submits the information entered in the form by the user -->
